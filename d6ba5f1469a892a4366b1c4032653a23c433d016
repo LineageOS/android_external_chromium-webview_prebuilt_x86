@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c748ea9_7fa370bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24110
+      },
+      "writtenOn": "2022-05-06T23:37:42Z",
+      "side": 1,
+      "message": "But it is x86 repo...",
+      "revId": "d6ba5f1469a892a4366b1c4032653a23c433d016",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
