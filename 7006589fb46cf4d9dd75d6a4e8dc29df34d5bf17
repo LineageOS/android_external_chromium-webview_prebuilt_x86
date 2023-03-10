@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5fcc811a_dfb5522c",
+        "filename": ".lfsconfig",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2023-03-10T20:01:50Z",
+      "side": 1,
+      "message": "We could also set this to something like lineageos-gerrit since this requires a ssh config entry to provide username anyways\n\nssh://lineageos-gerrit/LineageOS/...\n\n.ssh/config:\n```\nHost lineageos-gerrit\n    HostName review.lineageos.org\n    User your-gerrit-aka-github-username\n    Port 29418\n```",
+      "range": {
+        "startLine": 3,
+        "startChar": 21,
+        "endLine": 3,
+        "endChar": 41
+      },
+      "revId": "7006589fb46cf4d9dd75d6a4e8dc29df34d5bf17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee1a1fe8_ad211fd8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2023-03-10T20:01:50Z",
+      "side": 1,
+      "message": "Another alternative",
+      "revId": "7006589fb46cf4d9dd75d6a4e8dc29df34d5bf17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
